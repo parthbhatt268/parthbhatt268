@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parthbhatt268
+- 👋 Hi, I’m Parth Bhatt
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node js for mastering Backend development
 - 💞️ I’m looking to collaborate on React Project
