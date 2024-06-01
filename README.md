@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Bhatt</h1>
 <h3 align="center">A passionate full stack developer currently based in Galway, Ireland</h3>
 
-- 🔭 I’m currently working on [Rapid Basket - Food Ordering App](https://rapidbasket.netlify.app/)
+- 🔭 I’m currently working on [Rapid Basket - Food Ordering App](https://rapidbasket.d36kd6dzveqmfl.amplifyapp.com/)
 
 - 👯 I’m looking to collaborate on **React Application**
 
