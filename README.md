@@ -1,7 +1,5 @@
 <img src="https://github.com/user-attachments/assets/3dc21cd6-0ff9-4c6c-bd84-5c86720d8479" alt="Hi 👋, I'm Parth Bhatt" align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=parthbhatt268&color=A020F0)
-
 <h3 align="center">A passionate full stack developer currently based in Galway, Ireland</h3>
 
 - 🔭 I’m currently working on [Rapid Basket - Food Ordering App](https://rapidbasket.d36kd6dzveqmfl.amplifyapp.com/)
@@ -64,3 +62,6 @@
 <a href="https://www.leetcode.com/parth_bhatt" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=FFA116" alt="LeetCode Badge">
 </a>
+
+![Profile views](https://komarev.com/ghpvc/?username=parthbhatt268&color=A020F0)
+
