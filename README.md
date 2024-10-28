@@ -65,5 +65,11 @@
 
 <hr>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parthbhatt268&theme=radical)
+
+<hr>
+
+![Joke](https://v2.jokeapi.dev/joke/Programming?type=single)
+
 ![Profile views](https://komarev.com/ghpvc/?username=parthbhatt268&color=A020F0)
 
