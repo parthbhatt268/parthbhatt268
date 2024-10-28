@@ -1,5 +1,7 @@
 <img src="https://github.com/user-attachments/assets/3dc21cd6-0ff9-4c6c-bd84-5c86720d8479" alt="Hi 👋, I'm Parth Bhatt" align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=parthbhatt268&color=purple)
+
 <h3 align="center">A passionate full stack developer currently based in Galway, Ireland</h3>
 
 - 🔭 I’m currently working on [Rapid Basket - Food Ordering App](https://rapidbasket.d36kd6dzveqmfl.amplifyapp.com/)
