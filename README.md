@@ -65,7 +65,7 @@
 
 <hr>
 
-[![Parth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parthbhatt268&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Parth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parthbhatt268&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
