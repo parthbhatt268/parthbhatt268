@@ -65,11 +65,9 @@
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parthbhatt268&theme=radical)
+[![Parth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parthbhatt268&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
-
-![Joke](https://v2.jokeapi.dev/joke/Programming?type=single)
 
 ![Profile views](https://komarev.com/ghpvc/?username=parthbhatt268&color=A020F0)
 
