@@ -63,5 +63,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=FFA116" alt="LeetCode Badge">
 </a>
 
+<hr>
+
 ![Profile views](https://komarev.com/ghpvc/?username=parthbhatt268&color=A020F0)
 
